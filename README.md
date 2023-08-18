@@ -76,12 +76,14 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
-# Logic symbol & Truthtable:
 
-![Screenshot 2023-08-18 085549](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cbc52cb4-be2f-476c-a42c-54b72fae4283)
 # RTL Diagram:
 
 ![Screenshot 2023-08-18 085627](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/f4692ad2-91cc-4b1c-beb0-f614c15c8e0d)
+
+# Logic symbol & Truthtable:
+
+![Screenshot 2023-08-18 085549](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cbc52cb4-be2f-476c-a42c-54b72fae4283)
 
 # Output waveform:
 RTL
