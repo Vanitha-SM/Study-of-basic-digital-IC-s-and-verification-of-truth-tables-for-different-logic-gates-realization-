@@ -1,5 +1,5 @@
-## Name: Vanitha S       
-## Register Number: 212222100057
+### Name: Vanitha S       
+### Register Number: 212222100057
 # Study of basic digital IC's and verification of truth tables for different logic gates realization
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
