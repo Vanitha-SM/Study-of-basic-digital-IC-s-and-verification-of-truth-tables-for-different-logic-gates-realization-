@@ -1,4 +1,4 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Study of basic digital ICs and verification of truth tables for different logic gates realization
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -77,8 +77,8 @@ Y= A⊕B
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
+## Program:
 ```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Vanitha S
 RegisterNumber:  212222100057
 ```
@@ -106,7 +106,8 @@ endmodule
 
 ## Output waveform:
 RTL
-![Screenshot 2023-08-18 090207](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/3a31f396-ebe9-4adf-a731-987846e0a260)
+![image](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/2178bd14-6b08-4ae2-a129-59f5bc55f076)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
