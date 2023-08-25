@@ -82,10 +82,7 @@ Y= A⊕B
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
-```
-Developed by: Vanitha S
-RegisterNumber:  212222100057
-```
+
 ```
 module exp1(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
 input a,b;
@@ -102,15 +99,20 @@ endmodule
 
 ## RTL Diagram:
 
-<img src="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/f4692ad2-91cc-4b1c-beb0-f614c15c8e0d" width=475 height=475>
+![Screenshot 2023-08-18 085627](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/75a79f05-ea9d-49f0-bfed-a915427ba8a1)
+
 
 ## Truthtable:
 
-<img src="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cbc52cb4-be2f-476c-a42c-54b72fae4283" width=475 height=475>
+![Screenshot 2023-08-18 085549](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/c7329065-dc0b-4973-a9bf-9e4da8932e69)
+
+
 
 ## Output waveform:
 RTL
-<img src ="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/2178bd14-6b08-4ae2-a129-59f5bc55f076" width=475 height=475>
+
+![image](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cea61877-d896-4717-b839-ad7703119db7)
+
 
 
 ## Result:
