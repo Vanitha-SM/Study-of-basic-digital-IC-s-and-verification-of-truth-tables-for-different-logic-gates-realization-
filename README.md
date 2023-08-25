@@ -1,5 +1,7 @@
-### Name: Vanitha S       
-### Register Number: 212222100057
+```
+Name: Vanitha S       
+Register Number: 212222100057
+```
 # Study of basic digital logic gates and verification of truth tables 
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -100,15 +102,15 @@ endmodule
 
 ## RTL Diagram:
 
-![Screenshot 2023-08-18 085627](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/f4692ad2-91cc-4b1c-beb0-f614c15c8e0d)
+<img src="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/f4692ad2-91cc-4b1c-beb0-f614c15c8e0d" width=475 height=475>
 
 ## Truthtable:
 
-![Screenshot 2023-08-18 085549](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cbc52cb4-be2f-476c-a42c-54b72fae4283)
+<img src="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/cbc52cb4-be2f-476c-a42c-54b72fae4283" width=475 height=475>
 
 ## Output waveform:
 RTL
-![image](https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/2178bd14-6b08-4ae2-a129-59f5bc55f076)
+<img src ="https://github.com/Vanitha-SM/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119557985/2178bd14-6b08-4ae2-a129-59f5bc55f076" width=475 height=475>
 
 
 ## Result:
